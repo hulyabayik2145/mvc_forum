@@ -1,0 +1,43 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "user": "Mehmet",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yönetirim?",
+      "date": "2023-09-12"
+    },
+    {
+      "id": "2",
+      "user": "Ali",
+      "title": "React Problemi",
+      "text": "MVC Mimari ile nasıl bileşenleri yönetirim?",
+      "date": "2023-09-12"
+    },
+    {
+      "id": "3",
+      "user": "Hakan",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yönetirim?",
+      "date": "2022-09-12"
+    },
+    {
+      "id": "a2e164e0-4bf1-43bb-8fc4-2305f1b0863b",
+      "user": "Hasan",
+      "title": "Firebase",
+      "text": "yeni güncellemeden sonra sorun oluştu"
+    },
+    {
+      "id": "f45a32f4-d9ae-4dea-8fbe-f1e1a6a72460",
+      "user": "Ayşe",
+      "title": "Firebase",
+      "text": "yeni güncellemeden sonra sorun oluştu"
+    },
+    {
+      "id": "65d5b1de-7125-4ee5-9ce1-7e783e060dd9",
+      "user": "ayşe",
+      "title": "mvc",
+      "text": "bileşenler nasıl yönetilir"
+    }
+  ]
+}
